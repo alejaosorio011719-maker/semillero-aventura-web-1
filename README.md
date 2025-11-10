@@ -1,22 +1,3 @@
-aventura-web/
-│
-├── README.md
-├── /src
-│   ├── index.html
-│   ├── styles/
-│   │   └── style.css
-│   ├── scripts/
-│   │   └── main.js
-│   └── assets/
-│       ├── images/
-│       └── sounds/
-│
-├── /docs
-│   └── proyecto.md
-│
-└── /projects
-    └── prototipo/
-
 
 ---
 
