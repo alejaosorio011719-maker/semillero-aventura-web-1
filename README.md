@@ -72,6 +72,8 @@ Los estudiantes del semillero pueden:
 ---
 
 > 🌱 “Aventura Web: aprender creando mundos digitales.”
+>
+> pryecto finalizado jugar aqui --> https://aesthetic-madeleine-eaa0e3.netlify.app/
 
 
 ---
